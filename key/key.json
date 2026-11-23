@@ -1,0 +1,328 @@
+{
+ "star_01": {
+  "tic": "307210830",
+  "name": "L 98-59",
+  "signals": [
+   {
+    "id": "TOI-175.01",
+    "period": 3.6906764,
+    "epoch": 13.273029999807477,
+    "depth_ppm": 1657.0,
+    "dur_h": 1.107,
+    "radius_re": 1.36751,
+    "disp": "CP",
+    "src": "NASA Exoplanet Archive TOI table",
+    "name": "L 98-59 c",
+    "ephemeris": "confirmed planets table",
+    "transits_in_data": 18,
+    "findable": true
+   },
+   {
+    "id": "TOI-175.02",
+    "period": 7.450729,
+    "epoch": 8.740019999910146,
+    "depth_ppm": 1542.0,
+    "dur_h": 0.475,
+    "radius_re": 3.04528,
+    "disp": "CP",
+    "src": "NASA Exoplanet Archive TOI table",
+    "name": "L 98-59 d",
+    "ephemeris": "confirmed planets table",
+    "transits_in_data": 10,
+    "findable": true
+   },
+   {
+    "id": "TOI-175.03",
+    "period": 2.253114,
+    "epoch": 12.170559999998659,
+    "depth_ppm": 682.3972723,
+    "dur_h": 0.9939837,
+    "radius_re": 0.826635,
+    "disp": "CP",
+    "src": "NASA Exoplanet Archive TOI table",
+    "name": "L 98-59 b",
+    "ephemeris": "confirmed planets table",
+    "transits_in_data": 32,
+    "findable": true
+   }
+  ]
+ },
+ "star_02": {
+  "tic": "410153553",
+  "name": "LHS 3844",
+  "signals": [
+   {
+    "id": "TOI-136.01",
+    "period": 0.462929709,
+    "epoch": 1853.8330899998546,
+    "depth_ppm": 4507.3268775,
+    "dur_h": 0.5409433,
+    "radius_re": 1.3560231,
+    "disp": "CP",
+    "src": "NASA Exoplanet Archive TOI table",
+    "name": "LHS 3844 b",
+    "ephemeris": "confirmed planets table",
+    "transits_in_data": 151,
+    "findable": true
+   }
+  ]
+ },
+ "star_03": {
+  "tic": "261136679",
+  "name": "Pi Mensae",
+  "signals": [
+   {
+    "id": "TOI-144.01",
+    "period": 6.267823,
+    "epoch": 0.5041000000201166,
+    "depth_ppm": 321.0,
+    "dur_h": 2.789,
+    "radius_re": 1.99779,
+    "disp": "CP",
+    "src": "NASA Exoplanet Archive TOI table",
+    "name": "pi Men c",
+    "ephemeris": "confirmed planets table",
+    "transits_in_data": 11,
+    "findable": true
+   }
+  ]
+ },
+ "star_04": {
+  "tic": "259376992",
+  "name": "TIC 259376992 (no known signal)",
+  "signals": []
+ },
+ "star_05": {
+  "tic": "259378043",
+  "name": "TIC 259378043 (no known signal)",
+  "signals": []
+ },
+ "star_06": {
+  "tic": "441420236",
+  "name": "AU Microscopii",
+  "signals": [
+   {
+    "id": "TOI-2221.01",
+    "period": 8.463446,
+    "epoch": 5.350877999793738,
+    "depth_ppm": 2872.2887525,
+    "dur_h": 3.5738006,
+    "radius_re": 4.0269258,
+    "disp": "CP",
+    "src": "NASA Exoplanet Archive TOI table",
+    "name": "AU Mic b",
+    "ephemeris": "confirmed planets table",
+    "transits_in_data": 7,
+    "findable": true
+   },
+   {
+    "id": "AU Mic c",
+    "name": "AU Mic c",
+    "period": 18.859023,
+    "epoch": 17.22332500014454,
+    "depth_ppm": 850.0000000000001,
+    "dur_h": 4.29,
+    "radius_re": 2.79,
+    "disp": "CP",
+    "src": "NASA Exoplanet Archive confirmed planets",
+    "transits_in_data": 5,
+    "findable": true
+   }
+  ]
+ },
+ "star_07": {
+  "tic": "4206066",
+  "name": "TIC 4206066 (TOI-7930)",
+  "signals": [
+   {
+    "id": "TOI-7930.01",
+    "period": 11.1327267,
+    "epoch": 2566.2645470001735,
+    "depth_ppm": 910.2831406,
+    "dur_h": 1.5207334,
+    "radius_re": 2.0350139,
+    "disp": "PC",
+    "src": "NASA Exoplanet Archive TOI table",
+    "transits_in_data": 8,
+    "findable": true
+   },
+   {
+    "id": "TOI-7930.02",
+    "period": 3.1827878,
+    "epoch": 2572.1139690000564,
+    "depth_ppm": 461.5345195,
+    "dur_h": 1.7752359,
+    "radius_re": 1.3037797,
+    "disp": "PC",
+    "src": "NASA Exoplanet Archive TOI table",
+    "transits_in_data": 26,
+    "findable": true
+   }
+  ]
+ },
+ "star_08": {
+  "tic": "100100827",
+  "name": "WASP-18",
+  "signals": [
+   {
+    "id": "TOI-185.01",
+    "period": 0.94145223,
+    "epoch": -1613.1943999999203,
+    "depth_ppm": 11445.0,
+    "dur_h": 2.05,
+    "radius_re": 15.342,
+    "disp": "KP",
+    "src": "NASA Exoplanet Archive TOI table",
+    "name": "WASP-18 b",
+    "ephemeris": "confirmed planets table",
+    "transits_in_data": 67,
+    "findable": true
+   }
+  ]
+ },
+ "star_09": {
+  "tic": "150428135",
+  "name": "TOI-700",
+  "signals": [
+   {
+    "id": "TOI-700.01",
+    "period": 16.0511039,
+    "epoch": 496.6219000001438,
+    "depth_ppm": 2768.5212418,
+    "dur_h": 1.3968229,
+    "radius_re": 2.5869212,
+    "disp": "CP",
+    "src": "NASA Exoplanet Archive TOI table",
+    "name": "TOI-700 c",
+    "ephemeris": "confirmed planets table",
+    "transits_in_data": 3,
+    "findable": true
+   },
+   {
+    "id": "TOI-700.02",
+    "period": 37.423457,
+    "epoch": 2438.016119999811,
+    "depth_ppm": 737.5519387,
+    "dur_h": 3.3650101,
+    "radius_re": 1.3296571,
+    "disp": "CP",
+    "src": "NASA Exoplanet Archive TOI table",
+    "name": "TOI-700 d",
+    "ephemeris": "confirmed planets table",
+    "transits_in_data": 2,
+    "findable": true
+   },
+   {
+    "id": "TOI-700.03",
+    "period": 9.97722,
+    "epoch": 555.099400000181,
+    "depth_ppm": 459.8525479,
+    "dur_h": 2.2583631,
+    "radius_re": 0.9617288,
+    "disp": "CP",
+    "src": "NASA Exoplanet Archive TOI table",
+    "name": "TOI-700 b",
+    "ephemeris": "confirmed planets table",
+    "transits_in_data": 7,
+    "findable": true
+   },
+   {
+    "id": "TOI-700.04",
+    "period": 27.810124,
+    "epoch": 2447.4634300000034,
+    "depth_ppm": 406.8232517,
+    "dur_h": 2.9558823,
+    "radius_re": 0.9491858,
+    "disp": "CP",
+    "src": "NASA Exoplanet Archive TOI table",
+    "name": "TOI-700 e",
+    "ephemeris": "confirmed planets table",
+    "transits_in_data": 1,
+    "findable": false
+   }
+  ]
+ },
+ "star_10": {
+  "tic": "259377017",
+  "name": "TOI-270",
+  "signals": [
+   {
+    "id": "TOI-270.01",
+    "period": 5.66051,
+    "epoch": 78.08056000014767,
+    "depth_ppm": 3451.8440419,
+    "dur_h": 1.6617716,
+    "radius_re": 2.3625955,
+    "disp": "CP",
+    "src": "NASA Exoplanet Archive TOI table",
+    "name": "TOI-270 c",
+    "ephemeris": "confirmed planets table",
+    "transits_in_data": 11,
+    "findable": true
+   },
+   {
+    "id": "TOI-270.02",
+    "period": 11.38194,
+    "epoch": 84.33822999987751,
+    "depth_ppm": 2960.9549482,
+    "dur_h": 2.0489434,
+    "radius_re": 2.0234009,
+    "disp": "CP",
+    "src": "NASA Exoplanet Archive TOI table",
+    "name": "TOI-270 d",
+    "ephemeris": "confirmed planets table",
+    "transits_in_data": 6,
+    "findable": true
+   },
+   {
+    "id": "TOI-270.03",
+    "period": 3.35992,
+    "epoch": 76.01464000018314,
+    "depth_ppm": 976.6940501,
+    "dur_h": 1.3266673,
+    "radius_re": 1.2234666,
+    "disp": "CP",
+    "src": "NASA Exoplanet Archive TOI table",
+    "name": "TOI-270 b",
+    "ephemeris": "confirmed planets table",
+    "transits_in_data": 17,
+    "findable": true
+   }
+  ]
+ },
+ "star_11": {
+  "tic": "189639080",
+  "name": "TIC 189639080 (eclipsing binary, TESS EB catalog)",
+  "signals": [
+   {
+    "id": "EB",
+    "period": 3.1337762,
+    "epoch": -0.7143049999999675,
+    "depth_ppm": null,
+    "dur_h": 3.0,
+    "disp": "EB",
+    "src": "TESS EB catalog (Prsa+ 2022, J/ApJS/258/16)",
+    "transits_in_data": 18,
+    "findable": true
+   }
+  ]
+ },
+ "star_12": {
+  "tic": "304021498",
+  "name": "TOI-1031 (NASA: false positive)",
+  "signals": [
+   {
+    "id": "TOI-1031.01",
+    "period": 5.652623,
+    "epoch": 23.837939000222832,
+    "depth_ppm": 1250.0,
+    "dur_h": 3.434,
+    "radius_re": 8.94354,
+    "disp": "FP",
+    "src": "NASA Exoplanet Archive TOI table",
+    "transits_in_data": 8,
+    "findable": true
+   }
+  ]
+ }
+}

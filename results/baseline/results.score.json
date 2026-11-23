@@ -1,0 +1,389 @@
+{
+ "stars": {
+  "star_01": {
+   "name": "L 98-59",
+   "reported": [
+    {
+     "reported_period": 3.690595795111109,
+     "verdict": "planet candidate",
+     "match": "TOI-175.01",
+     "kind": "match",
+     "known_disp": "CP"
+    },
+    {
+     "reported_period": 7.451255557487394,
+     "verdict": "planet candidate",
+     "match": "TOI-175.02",
+     "kind": "match",
+     "known_disp": "CP"
+    },
+    {
+     "reported_period": 2.2535851381095107,
+     "verdict": "planet candidate",
+     "match": "TOI-175.03",
+     "kind": "match",
+     "known_disp": "CP"
+    }
+   ],
+   "known": [
+    {
+     "id": "TOI-175.01",
+     "name": "L 98-59 c",
+     "period": 3.6906764,
+     "disp": "CP",
+     "transits_in_data": 18,
+     "findable": true,
+     "found": true,
+     "alias_only": false,
+     "verdicts": [
+      "planet candidate"
+     ]
+    },
+    {
+     "id": "TOI-175.02",
+     "name": "L 98-59 d",
+     "period": 7.450729,
+     "disp": "CP",
+     "transits_in_data": 10,
+     "findable": true,
+     "found": true,
+     "alias_only": false,
+     "verdicts": [
+      "planet candidate"
+     ]
+    },
+    {
+     "id": "TOI-175.03",
+     "name": "L 98-59 b",
+     "period": 2.253114,
+     "disp": "CP",
+     "transits_in_data": 32,
+     "findable": true,
+     "found": true,
+     "alias_only": false,
+     "verdicts": [
+      "planet candidate"
+     ]
+    }
+   ]
+  },
+  "star_02": {
+   "name": "LHS 3844",
+   "reported": [
+    {
+     "reported_period": 0.9265825521597455,
+     "verdict": "planet candidate",
+     "match": "TOI-136.01",
+     "kind": "alias",
+     "known_disp": "CP"
+    }
+   ],
+   "known": [
+    {
+     "id": "TOI-136.01",
+     "name": "LHS 3844 b",
+     "period": 0.462929709,
+     "disp": "CP",
+     "transits_in_data": 151,
+     "findable": true,
+     "found": false,
+     "alias_only": true,
+     "verdicts": [
+      "planet candidate"
+     ]
+    }
+   ]
+  },
+  "star_03": {
+   "name": "Pi Mensae",
+   "reported": [
+    {
+     "reported_period": 6.267043159756556,
+     "verdict": "planet candidate",
+     "match": "TOI-144.01",
+     "kind": "match",
+     "known_disp": "CP"
+    }
+   ],
+   "known": [
+    {
+     "id": "TOI-144.01",
+     "name": "pi Men c",
+     "period": 6.267823,
+     "disp": "CP",
+     "transits_in_data": 11,
+     "findable": true,
+     "found": true,
+     "alias_only": false,
+     "verdicts": [
+      "planet candidate"
+     ]
+    }
+   ]
+  },
+  "star_04": {
+   "name": "TIC 259376992 (no known signal)",
+   "reported": [],
+   "known": []
+  },
+  "star_05": {
+   "name": "TIC 259378043 (no known signal)",
+   "reported": [],
+   "known": []
+  },
+  "star_06": {
+   "name": "AU Microscopii",
+   "reported": [],
+   "known": [
+    {
+     "id": "TOI-2221.01",
+     "name": "AU Mic b",
+     "period": 8.463446,
+     "disp": "CP",
+     "transits_in_data": 7,
+     "findable": true,
+     "found": false,
+     "alias_only": false,
+     "verdicts": []
+    },
+    {
+     "id": "AU Mic c",
+     "name": "AU Mic c",
+     "period": 18.859023,
+     "disp": "CP",
+     "transits_in_data": 5,
+     "findable": true,
+     "found": false,
+     "alias_only": false,
+     "verdicts": []
+    }
+   ]
+  },
+  "star_07": {
+   "name": "TIC 4206066 (TOI-7930)",
+   "reported": [
+    {
+     "reported_period": 14.421449860590329,
+     "verdict": "planet candidate",
+     "match": null,
+     "kind": null,
+     "known_disp": null
+    }
+   ],
+   "known": [
+    {
+     "id": "TOI-7930.01",
+     "name": null,
+     "period": 11.1327267,
+     "disp": "PC",
+     "transits_in_data": 8,
+     "findable": true,
+     "found": false,
+     "alias_only": false,
+     "verdicts": []
+    },
+    {
+     "id": "TOI-7930.02",
+     "name": null,
+     "period": 3.1827878,
+     "disp": "PC",
+     "transits_in_data": 26,
+     "findable": true,
+     "found": false,
+     "alias_only": false,
+     "verdicts": []
+    }
+   ]
+  },
+  "star_08": {
+   "name": "WASP-18",
+   "reported": [
+    {
+     "reported_period": 0.9413665313516888,
+     "verdict": "planet candidate",
+     "match": "TOI-185.01",
+     "kind": "match",
+     "known_disp": "KP"
+    }
+   ],
+   "known": [
+    {
+     "id": "TOI-185.01",
+     "name": "WASP-18 b",
+     "period": 0.94145223,
+     "disp": "KP",
+     "transits_in_data": 67,
+     "findable": true,
+     "found": true,
+     "alias_only": false,
+     "verdicts": [
+      "planet candidate"
+     ]
+    }
+   ]
+  },
+  "star_09": {
+   "name": "TOI-700",
+   "reported": [],
+   "known": [
+    {
+     "id": "TOI-700.01",
+     "name": "TOI-700 c",
+     "period": 16.0511039,
+     "disp": "CP",
+     "transits_in_data": 3,
+     "findable": true,
+     "found": false,
+     "alias_only": false,
+     "verdicts": []
+    },
+    {
+     "id": "TOI-700.02",
+     "name": "TOI-700 d",
+     "period": 37.423457,
+     "disp": "CP",
+     "transits_in_data": 2,
+     "findable": true,
+     "found": false,
+     "alias_only": false,
+     "verdicts": []
+    },
+    {
+     "id": "TOI-700.03",
+     "name": "TOI-700 b",
+     "period": 9.97722,
+     "disp": "CP",
+     "transits_in_data": 7,
+     "findable": true,
+     "found": false,
+     "alias_only": false,
+     "verdicts": []
+    },
+    {
+     "id": "TOI-700.04",
+     "name": "TOI-700 e",
+     "period": 27.810124,
+     "disp": "CP",
+     "transits_in_data": 1,
+     "findable": false,
+     "found": false,
+     "alias_only": false,
+     "verdicts": []
+    }
+   ]
+  },
+  "star_10": {
+   "name": "TOI-270",
+   "reported": [
+    {
+     "reported_period": 5.660105028143769,
+     "verdict": "planet candidate",
+     "match": "TOI-270.01",
+     "kind": "match",
+     "known_disp": "CP"
+    }
+   ],
+   "known": [
+    {
+     "id": "TOI-270.01",
+     "name": "TOI-270 c",
+     "period": 5.66051,
+     "disp": "CP",
+     "transits_in_data": 11,
+     "findable": true,
+     "found": true,
+     "alias_only": false,
+     "verdicts": [
+      "planet candidate"
+     ]
+    },
+    {
+     "id": "TOI-270.02",
+     "name": "TOI-270 d",
+     "period": 11.38194,
+     "disp": "CP",
+     "transits_in_data": 6,
+     "findable": true,
+     "found": false,
+     "alias_only": false,
+     "verdicts": []
+    },
+    {
+     "id": "TOI-270.03",
+     "name": "TOI-270 b",
+     "period": 3.35992,
+     "disp": "CP",
+     "transits_in_data": 17,
+     "findable": true,
+     "found": false,
+     "alias_only": false,
+     "verdicts": []
+    }
+   ]
+  },
+  "star_11": {
+   "name": "TIC 189639080 (eclipsing binary, TESS EB catalog)",
+   "reported": [
+    {
+     "reported_period": 1.5668235257250596,
+     "verdict": "planet candidate",
+     "match": "EB",
+     "kind": "alias",
+     "known_disp": "EB"
+    }
+   ],
+   "known": [
+    {
+     "id": "EB",
+     "name": null,
+     "period": 3.1337762,
+     "disp": "EB",
+     "transits_in_data": 18,
+     "findable": true,
+     "found": false,
+     "alias_only": true,
+     "verdicts": [
+      "planet candidate"
+     ]
+    }
+   ]
+  },
+  "star_12": {
+   "name": "TOI-1031 (NASA: false positive)",
+   "reported": [
+    {
+     "reported_period": 5.649800684265043,
+     "verdict": "planet candidate",
+     "match": "TOI-1031.01",
+     "kind": "match",
+     "known_disp": "FP"
+    }
+   ],
+   "known": [
+    {
+     "id": "TOI-1031.01",
+     "name": null,
+     "period": 5.652623,
+     "disp": "FP",
+     "transits_in_data": 8,
+     "findable": true,
+     "found": true,
+     "alias_only": false,
+     "verdicts": [
+      "planet candidate"
+     ]
+    }
+   ]
+  }
+ },
+ "totals": {
+  "found": 6,
+  "findable": 16,
+  "alias": 1,
+  "false_alarms": 1,
+  "eb_caught": 0,
+  "eb_total": 1,
+  "fp_called_planet": 1,
+  "extra": 1
+ }
+}

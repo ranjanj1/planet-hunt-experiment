@@ -1,0 +1,4 @@
+Ignoring 6 permissions.allow entries from .claude/settings.json: this workspace has not been trusted. Run Claude Code interactively here once and accept the trust dialog, or set projects["~/Documents/Projects/tess-runs/s2"].hasTrustDialogAccepted: true in ~/.claude.json.
+real 5009.03
+user 8291.46
+sys 55.12

@@ -1,0 +1,102 @@
+{
+ "star_01": [
+  {
+   "period_days": 3.690595795111109,
+   "t0_days": 2.199411,
+   "depth_ppm": 1617.591158255675,
+   "duration_hours": 0.96,
+   "verdict": "planet candidate",
+   "reason": "BLS peak SDE 11.0 in segment 1"
+  },
+  {
+   "period_days": 7.451255557487394,
+   "t0_days": 1.2874109999999999,
+   "depth_ppm": 1115.9040703535313,
+   "duration_hours": 0.96,
+   "verdict": "planet candidate",
+   "reason": "BLS peak SDE 10.0 in segment 1"
+  },
+  {
+   "period_days": 2.2535851381095107,
+   "t0_days": 0.9034110000000001,
+   "depth_ppm": 512.0513137785605,
+   "duration_hours": 0.96,
+   "verdict": "planet candidate",
+   "reason": "BLS peak SDE 9.9 in segment 1"
+  }
+ ],
+ "star_02": [
+  {
+   "period_days": 0.9265825521597455,
+   "t0_days": 711.777938,
+   "depth_ppm": 2144.5191144858736,
+   "duration_hours": 0.96,
+   "verdict": "planet candidate",
+   "reason": "BLS peak SDE 11.1 in segment 2"
+  }
+ ],
+ "star_03": [
+  {
+   "period_days": 6.267043159756556,
+   "t0_days": 0.50496,
+   "depth_ppm": 219.802405225341,
+   "duration_hours": 2.88,
+   "verdict": "planet candidate",
+   "reason": "BLS peak SDE 10.0 in segment 1"
+  }
+ ],
+ "star_04": [],
+ "star_05": [],
+ "star_06": [],
+ "star_07": [
+  {
+   "period_days": 14.421449860590329,
+   "t0_days": 2523.939812,
+   "depth_ppm": 51894.73130057707,
+   "duration_hours": 1.44,
+   "verdict": "planet candidate",
+   "reason": "BLS peak SDE 12.9 in segment 3"
+  }
+ ],
+ "star_08": [
+  {
+   "period_days": 0.9413665313516888,
+   "t0_days": 0.459507,
+   "depth_ppm": 9407.6202730554,
+   "duration_hours": 1.92,
+   "verdict": "planet candidate",
+   "reason": "BLS peak SDE 9.6 in segment 1"
+  }
+ ],
+ "star_09": [],
+ "star_10": [
+  {
+   "period_days": 5.660105028143769,
+   "t0_days": 55.444045,
+   "depth_ppm": 3331.5234967067354,
+   "duration_hours": 1.44,
+   "verdict": "planet candidate",
+   "reason": "BLS peak SDE 10.1 in segment 3"
+  }
+ ],
+ "star_11": [
+  {
+   "period_days": 1.5668235257250596,
+   "t0_days": 0.850816,
+   "depth_ppm": 92903.78947753747,
+   "duration_hours": 0.96,
+   "verdict": "planet candidate",
+   "reason": "BLS peak SDE 9.3 in segment 1"
+  }
+ ],
+ "star_12": [
+  {
+   "period_days": 5.649800684265043,
+   "t0_days": 57.748901000000004,
+   "depth_ppm": 1241.47734032341,
+   "duration_hours": 1.92,
+   "verdict": "planet candidate",
+   "reason": "BLS peak SDE 9.2 in segment 2"
+  }
+ ]
+}

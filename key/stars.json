@@ -1,0 +1,565 @@
+{
+ "star_01": {
+  "tic": "307210830",
+  "name": "L 98-59",
+  "sectors": [
+   [
+    2,
+    "SPOC"
+   ],
+   [
+    5,
+    "SPOC"
+   ],
+   [
+    8,
+    "SPOC"
+   ]
+  ],
+  "time_offset_btjd": 1354.0,
+  "segments": [
+   {
+    "segment": 1,
+    "sector": 2,
+    "author": "SPOC",
+    "n": 17578,
+    "cadence_s": 120,
+    "start": 0.10741134102454453,
+    "end": 26.470924049971472
+   },
+   {
+    "segment": 2,
+    "sector": 5,
+    "author": "SPOC",
+    "n": 17025,
+    "cadence_s": 120,
+    "start": 84.14732259816219,
+    "end": 109.58382588209747
+   },
+   {
+    "segment": 3,
+    "sector": 8,
+    "author": "SPOC",
+    "n": 12980,
+    "cadence_s": 120,
+    "start": 163.91832632356386,
+    "end": 188.00073034279535
+   }
+  ]
+ },
+ "star_02": {
+  "tic": "410153553",
+  "name": "LHS 3844",
+  "sectors": [
+   [
+    1,
+    "SPOC"
+   ],
+   [
+    27,
+    "SPOC"
+   ],
+   [
+    28,
+    "SPOC"
+   ]
+  ],
+  "time_offset_btjd": 1325.0,
+  "segments": [
+   {
+    "segment": 1,
+    "sector": 1,
+    "author": "SPOC",
+    "n": 18275,
+    "cadence_s": 120,
+    "start": 0.29913837948197397,
+    "end": 28.179367104229414
+   },
+   {
+    "segment": 2,
+    "sector": 27,
+    "author": "SPOC",
+    "n": 16142,
+    "cadence_s": 120,
+    "start": 711.2819377819724,
+    "end": 734.7571448927615
+   },
+   {
+    "segment": 3,
+    "sector": 28,
+    "author": "SPOC",
+    "n": 15207,
+    "cadence_s": 120,
+    "start": 736.8543649647577,
+    "end": 760.6289889712243
+   }
+  ]
+ },
+ "star_03": {
+  "tic": "261136679",
+  "name": "Pi Mensae",
+  "sectors": [
+   [
+    1,
+    "SPOC"
+   ],
+   [
+    4,
+    "SPOC"
+   ],
+   [
+    8,
+    "SPOC"
+   ]
+  ],
+  "time_offset_btjd": 1325.0,
+  "segments": [
+   {
+    "segment": 1,
+    "sector": 1,
+    "author": "SPOC",
+    "n": 18264,
+    "cadence_s": 120,
+    "start": 0.29696049506037525,
+    "end": 28.177065897215698
+   },
+   {
+    "segment": 2,
+    "sector": 4,
+    "author": "SPOC",
+    "n": 14642,
+    "cadence_s": 120,
+    "start": 85.90211061085961,
+    "end": 111.4141071540464
+   },
+   {
+    "segment": 3,
+    "sector": 8,
+    "author": "SPOC",
+    "n": 12935,
+    "cadence_s": 120,
+    "start": 192.9806990673094,
+    "end": 216.9992030242654
+   }
+  ]
+ },
+ "star_04": {
+  "tic": "259376992",
+  "name": "TIC 259376992 (no known signal)",
+  "sectors": [
+   [
+    3,
+    "SPOC"
+   ],
+   [
+    4,
+    "SPOC"
+   ],
+   [
+    5,
+    "SPOC"
+   ]
+  ],
+  "time_offset_btjd": 1385.0,
+  "segments": [
+   {
+    "segment": 1,
+    "sector": 3,
+    "author": "SPOC",
+    "n": 12983,
+    "cadence_s": 120,
+    "start": 0.9373258531290958,
+    "end": 21.215422766811116
+   },
+   {
+    "segment": 2,
+    "sector": 4,
+    "author": "SPOC",
+    "n": 14552,
+    "cadence_s": 120,
+    "start": 25.904349948183835,
+    "end": 51.34467779232523
+   },
+   {
+    "segment": 3,
+    "sector": 5,
+    "author": "SPOC",
+    "n": 17278,
+    "cadence_s": 120,
+    "start": 53.06272054995293,
+    "end": 78.72212248049323
+   }
+  ]
+ },
+ "star_05": {
+  "tic": "259378043",
+  "name": "TIC 259378043 (no known signal)",
+  "sectors": [
+   [
+    3,
+    "SPOC"
+   ],
+   [
+    5,
+    "SPOC"
+   ],
+   [
+    30,
+    "SPOC"
+   ]
+  ],
+  "time_offset_btjd": 1385.0,
+  "segments": [
+   {
+    "segment": 1,
+    "sector": 3,
+    "author": "SPOC",
+    "n": 12982,
+    "cadence_s": 120,
+    "start": 0.9373213996609593,
+    "end": 21.215425002567372
+   },
+   {
+    "segment": 2,
+    "sector": 5,
+    "author": "SPOC",
+    "n": 17289,
+    "cadence_s": 120,
+    "start": 53.05023250289696,
+    "end": 78.72213971461747
+   },
+   {
+    "segment": 3,
+    "sector": 30,
+    "author": "SPOC",
+    "n": 16434,
+    "cadence_s": 120,
+    "start": 730.8869826281962,
+    "end": 756.705422575697
+   }
+  ]
+ },
+ "star_06": {
+  "tic": "441420236",
+  "name": "AU Microscopii",
+  "sectors": [
+   [
+    1,
+    "SPOC"
+   ],
+   [
+    27,
+    "SPOC"
+   ],
+   [
+    95,
+    "SPOC"
+   ]
+  ],
+  "time_offset_btjd": 1325.0,
+  "segments": [
+   {
+    "segment": 1,
+    "sector": 1,
+    "author": "SPOC",
+    "n": 17687,
+    "cadence_s": 120,
+    "start": 0.9444569126703755,
+    "end": 28.045331679526953
+   },
+   {
+    "segment": 2,
+    "sector": 27,
+    "author": "SPOC",
+    "n": 16767,
+    "cadence_s": 120,
+    "start": 711.284030797741,
+    "end": 735.6468989260707
+   },
+   {
+    "segment": 3,
+    "sector": 95,
+    "author": "SPOC",
+    "n": 15111,
+    "cadence_s": 120,
+    "start": 2558.006786893713,
+    "end": 2582.129981386224
+   }
+  ]
+ },
+ "star_07": {
+  "tic": "4206066",
+  "name": "TIC 4206066 (TOI-7930)",
+  "sectors": [
+   [
+    6,
+    "TESS-SPOC"
+   ],
+   [
+    32,
+    "SPOC"
+   ],
+   [
+    98,
+    "QLP"
+   ]
+  ],
+  "time_offset_btjd": 1468.0,
+  "segments": [
+   {
+    "segment": 1,
+    "sector": 6,
+    "author": "TESS-SPOC",
+    "n": 975,
+    "cadence_s": 1800,
+    "start": 0.30781887704597466,
+    "end": 22.03645739279432
+   },
+   {
+    "segment": 2,
+    "sector": 32,
+    "author": "SPOC",
+    "n": 17094,
+    "cadence_s": 120,
+    "start": 706.233555909369,
+    "end": 732.0449675174541
+   },
+   {
+    "segment": 3,
+    "sector": 98,
+    "author": "QLP",
+    "n": 24138,
+    "cadence_s": 200,
+    "start": 2520.505811799365,
+    "end": 2577.9019701137427
+   }
+  ]
+ },
+ "star_08": {
+  "tic": "100100827",
+  "name": "WASP-18",
+  "sectors": [
+   [
+    2,
+    "SPOC"
+   ],
+   [
+    3,
+    "SPOC"
+   ],
+   [
+    29,
+    "SPOC"
+   ]
+  ],
+  "time_offset_btjd": 1354.0,
+  "segments": [
+   {
+    "segment": 1,
+    "sector": 2,
+    "author": "SPOC",
+    "n": 18299,
+    "cadence_s": 120,
+    "start": 0.11150726171922543,
+    "end": 27.517458977539945
+   },
+   {
+    "segment": 2,
+    "sector": 3,
+    "author": "SPOC",
+    "n": 12864,
+    "cadence_s": 120,
+    "start": 31.93967489666261,
+    "end": 52.21713637209518
+   },
+   {
+    "segment": 3,
+    "sector": 29,
+    "author": "SPOC",
+    "n": 14358,
+    "cadence_s": 120,
+    "start": 734.2432146850788,
+    "end": 758.1379547727547
+   }
+  ]
+ },
+ "star_09": {
+  "tic": "150428135",
+  "name": "TOI-700",
+  "sectors": [
+   [
+    1,
+    "SPOC"
+   ],
+   [
+    3,
+    "SPOC"
+   ],
+   [
+    4,
+    "SPOC"
+   ]
+  ],
+  "time_offset_btjd": 1325.0,
+  "segments": [
+   {
+    "segment": 1,
+    "sector": 1,
+    "author": "SPOC",
+    "n": 18279,
+    "cadence_s": 120,
+    "start": 0.2954950150028708,
+    "end": 28.175974485111283
+   },
+   {
+    "segment": 2,
+    "sector": 3,
+    "author": "SPOC",
+    "n": 12379,
+    "cadence_s": 120,
+    "start": 60.93569101568232,
+    "end": 81.21351522757891
+   },
+   {
+    "segment": 3,
+    "sector": 4,
+    "author": "SPOC",
+    "n": 14435,
+    "cadence_s": 120,
+    "start": 85.9024080877357,
+    "end": 111.27473588982298
+   }
+  ]
+ },
+ "star_10": {
+  "tic": "259377017",
+  "name": "TOI-270",
+  "sectors": [
+   [
+    3,
+    "SPOC"
+   ],
+   [
+    4,
+    "SPOC"
+   ],
+   [
+    5,
+    "SPOC"
+   ]
+  ],
+  "time_offset_btjd": 1385.0,
+  "segments": [
+   {
+    "segment": 1,
+    "sector": 3,
+    "author": "SPOC",
+    "n": 12983,
+    "cadence_s": 120,
+    "start": 0.9373270624514589,
+    "end": 21.215419897057018
+   },
+   {
+    "segment": 2,
+    "sector": 4,
+    "author": "SPOC",
+    "n": 14444,
+    "cadence_s": 120,
+    "start": 25.904346176909485,
+    "end": 51.2793923812942
+   },
+   {
+    "segment": 3,
+    "sector": 5,
+    "author": "SPOC",
+    "n": 17135,
+    "cadence_s": 120,
+    "start": 53.14604509540413,
+    "end": 78.67350134189905
+   }
+  ]
+ },
+ "star_11": {
+  "tic": "189639080",
+  "name": "TIC 189639080 (eclipsing binary, TESS EB catalog)",
+  "sectors": [
+   [
+    8,
+    "SPOC"
+   ],
+   [
+    9,
+    "SPOC"
+   ],
+   [
+    35,
+    "SPOC"
+   ]
+  ],
+  "time_offset_btjd": 1518.0,
+  "segments": [
+   {
+    "segment": 1,
+    "sector": 8,
+    "author": "SPOC",
+    "n": 12870,
+    "cadence_s": 120,
+    "start": 0.0788159837989042,
+    "end": 24.004219817629746
+   },
+   {
+    "segment": 2,
+    "sector": 9,
+    "author": "SPOC",
+    "n": 15116,
+    "cadence_s": 120,
+    "start": 26.794489648032595,
+    "end": 50.47878117383448
+   },
+   {
+    "segment": 3,
+    "sector": 35,
+    "author": "SPOC",
+    "n": 13682,
+    "cadence_s": 120,
+    "start": 737.8301066030494,
+    "end": 761.983055541893
+   }
+  ]
+ },
+ "star_12": {
+  "tic": "304021498",
+  "name": "TOI-1031 (NASA: false positive)",
+  "sectors": [
+   [
+    36,
+    "SPOC"
+   ],
+   [
+    38,
+    "SPOC"
+   ]
+  ],
+  "time_offset_btjd": 2281.0,
+  "segments": [
+   {
+    "segment": 1,
+    "sector": 36,
+    "author": "SPOC",
+    "n": 15920,
+    "cadence_s": 120,
+    "start": 0.813510495477658,
+    "end": 24.990240540752893
+   },
+   {
+    "segment": 2,
+    "sector": 38,
+    "author": "SPOC",
+    "n": 18494,
+    "cadence_s": 120,
+    "start": 52.85690100982174,
+    "end": 79.55233920022829
+   }
+  ]
+ }
+}

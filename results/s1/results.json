@@ -1,0 +1,152 @@
+{
+ "star_01": [
+  {
+   "period_days": 1.04927,
+   "t0_days": 0.71337,
+   "depth_ppm": 164.0,
+   "duration_hours": 1.6,
+   "verdict": "planet candidate",
+   "reason": "shallow (~165 ppm, SNR ~8) but present at equal depth in all 3 segments; odd/even agree, no secondary; duration fits the small host of the other 3 planets"
+  },
+  {
+   "period_days": 2.253157,
+   "t0_days": 0.90423,
+   "depth_ppm": 653.0,
+   "duration_hours": 1.174,
+   "verdict": "planet candidate",
+   "reason": "30 transits, SNR 16; no secondary; odd/even within 2.3 sigma; one of 4 transiting signals in a compact system"
+  },
+  {
+   "period_days": 3.69062,
+   "t0_days": 2.20336,
+   "depth_ppm": 1716.4,
+   "duration_hours": 1.263,
+   "verdict": "planet candidate",
+   "reason": "16 transits, SNR 40; flat-bottomed, odd/even identical, no secondary; period near 2:1 with the 7.45 d planet"
+  },
+  {
+   "period_days": 7.450859,
+   "t0_days": 1.28693,
+   "depth_ppm": 1812.5,
+   "duration_hours": 0.849,
+   "verdict": "planet candidate",
+   "reason": "8 transits, SNR 24; odd/even agree, no secondary; short 0.85 h duration consistent with an M-dwarf host shared with the 3.69 d planet"
+  }
+ ],
+ "star_02": [
+  {
+   "period_days": 0.46293,
+   "t0_days": 0.72561,
+   "depth_ppm": 4349.3,
+   "duration_hours": 0.527,
+   "verdict": "planet candidate",
+   "reason": "ultra-short-period: 152 box-shaped transits, SNR 47; odd/even identical, no secondary (-1+-85 ppm); same depth in segments 700 d apart"
+  }
+ ],
+ "star_03": [
+  {
+   "period_days": 6.267793,
+   "t0_days": 0.50258,
+   "depth_ppm": 294.8,
+   "duration_hours": 3.197,
+   "verdict": "planet candidate",
+   "reason": "11 transits, SNR 35 on a very quiet star; odd/even agree, no secondary (-9+-8 ppm); 3.2 h duration fits a Sun-like star"
+  }
+ ],
+ "star_04": [],
+ "star_05": [],
+ "star_06": [
+  {
+   "period_days": 8.46318,
+   "t0_days": 5.37908,
+   "depth_ppm": 2687.7,
+   "duration_hours": 3.766,
+   "verdict": "planet candidate",
+   "reason": "7 transits over 3 segments spanning 7 yr on a young spotted/flaring star; consistent depths and timing, no secondary"
+  }
+ ],
+ "star_07": [
+  {
+   "period_days": 3.182788,
+   "t0_days": 0.42097,
+   "depth_ppm": 430.2,
+   "duration_hours": 1.796,
+   "verdict": "planet candidate",
+   "reason": "shallow (~430 ppm, SNR ~7) but found independently in each segment (8.4, 5.1, 4.6 sigma) with the same depth and a linking ephemeris; odd/even agree, no secondary"
+  },
+  {
+   "period_days": 14.395,
+   "t0_days": 2538.381,
+   "depth_ppm": 9677.0,
+   "duration_hours": 18.0,
+   "verdict": "other false positive",
+   "reason": "instrumental: 4 ~18 h episodes of +-10% chaotic scatter only in segment 3, not eclipse-shaped, spacing irregular (O-C up to 5 h); absent from segments 1-2"
+  }
+ ],
+ "star_08": [
+  {
+   "period_days": 0.941452,
+   "t0_days": 0.45786,
+   "depth_ppm": 10430.5,
+   "duration_hours": 2.176,
+   "verdict": "planet candidate",
+   "reason": "1% flat-bottomed transit + 459 ppm secondary and phase curve; ellipsoidal (~170 ppm) and beaming (~26 ppm) amplitudes imply a few-Jupiter-mass companion, so a hot Jupiter, not an EB"
+  }
+ ],
+ "star_09": [
+  {
+   "period_days": 16.05065,
+   "t0_days": 15.09106,
+   "depth_ppm": 3244.1,
+   "duration_hours": 1.714,
+   "verdict": "planet candidate",
+   "reason": "3 transits, SNR 15; aliases P/2-P/5 excluded by data at the intermediate epochs; odd/even agree, no secondary"
+  }
+ ],
+ "star_10": [
+  {
+   "period_days": 3.360167,
+   "t0_days": 2.09166,
+   "depth_ppm": 949.9,
+   "duration_hours": 1.377,
+   "verdict": "planet candidate",
+   "reason": "17 transits, SNR 15; odd/even agree, no secondary; third planet of a compact system (near 5:3 with 5.66 d)"
+  },
+  {
+   "period_days": 5.660239,
+   "t0_days": 4.50209,
+   "depth_ppm": 3755.6,
+   "duration_hours": 1.61,
+   "verdict": "planet candidate",
+   "reason": "11 transits, SNR 49; flat-bottomed, odd/even identical, no secondary; near 2:1 with the 11.38 d planet"
+  },
+  {
+   "period_days": 11.379883,
+   "t0_days": 4.67785,
+   "depth_ppm": 3044.7,
+   "duration_hours": 2.433,
+   "verdict": "planet candidate",
+   "reason": "6 transits, SNR 37; odd/even agree, no secondary, constant transit times; distinct period from the 5.66 d planet"
+  }
+ ],
+ "star_11": [
+  {
+   "period_days": 3.133773,
+   "t0_days": 0.85121,
+   "depth_ppm": 135019.2,
+   "duration_hours": 1.539,
+   "verdict": "eclipsing binary",
+   "reason": "eclipses alternate 13.5% / 10.3% deep (secondary exactly at phase 0.5, same 1.5 h width, V-shaped): two similar stars; BLS first finds half this period"
+  }
+ ],
+ "star_12": [
+  {
+   "period_days": 5.651594,
+   "t0_days": 1.2313,
+   "depth_ppm": 1587.0,
+   "duration_hours": 3.409,
+   "verdict": "planet candidate",
+   "reason": "8 transits, SNR 25; odd/even agree once epoch scatter included (1.0 sigma), no secondary; rather V-shaped (high impact parameter) so weakest-vetted candidate"
+  }
+ ]
+}
